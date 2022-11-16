@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_xaml2pdf_demo", "wpf_xaml2pdf_demo\wpf_xaml2pdf_demo.csproj", "{542879C7-D227-4B83-8F48-3E170B9FFC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542879C7-D227-4B83-8F48-3E170B9FFC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542879C7-D227-4B83-8F48-3E170B9FFC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542879C7-D227-4B83-8F48-3E170B9FFC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542879C7-D227-4B83-8F48-3E170B9FFC31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AABC231-1006-46F4-9DC8-A22656ECF200}
+	EndGlobalSection
+EndGlobal
